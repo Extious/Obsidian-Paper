@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"ea308d05c2d26090","type":"text","text":"# Title\nλScale: Enabling Fast Scaling for Serverless Large Language Model Inference\n# Abstract\n无服务器计算已成为一种引人注目的云端模型推理解决方案。 然而，随着现代大语言模型 (LLM) 规模持续增长，现有的无服务器平台往往面临着巨大的模型启动开销。 这对有效扩展模型实例以适应现实世界推理服务中常见的动态、突发工作负载构成了重大挑战。 在本文中，我们介绍 λ Scale，一个高效的无服务器推理系统，用于实现快速模型扩展。 背后的关键思想 λ Scale 是为了利用GPU节点之间的高速RDMA网络用于快速模型多播，同时启用模型传输过程中的分布式推理执行，并将其引用为“execute-while-load”。 λ Scale 提出了一种高效的模型扩展方案， λ Pipe，它支持自适应模型多播，并动态构建跨接收节点的执行管道以进行协作式分布式推理。 此外， λ Scale 支持跨 GPU 和主机内存的高效模型管理，允许跨不同存储层级的模型快速扩展。 评估结果表明， λ Scale 能够实现快速模型扩展并有效处理负载峰值，与最先进的解决方案相比，在现实世界 LLM 推理跟踪上实现了高达 5 倍的 × 尾部延迟改进和 31.3% 的成本降低。\n# Summary\n\n# Links\nhttps://yiyibooks.cn/arxiv/2502.09922v1/index.html\n","x":-740,"y":-340,"width":660,"height":459},
+		{"id":"ad38647258bf62e7","type":"file","file":"Agent/λScale/Figure4.png","x":140,"y":-560,"width":800,"height":752}
+	],
+	"edges":[]
+}
