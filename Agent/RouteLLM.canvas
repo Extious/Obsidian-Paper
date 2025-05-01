@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"92c6b97b36a88d17","x":-594,"y":-211,"width":734,"height":711,"type":"text","text":"## Title\nRouteLLM: Learning to Route LLMs with Preference Data\n## Abstract\n\n## Summary\n\n## Links\nhttps://arxiv.org/abs/2406.18665\nhttps://yiyibooks.cn/arxiv/2406.18665v4/index.html\n## Cite\n```\n@misc{ong2025routellmlearningroutellms,\n      title={RouteLLM: Learning to Route LLMs with Preference Data}, \n      author={Isaac Ong and Amjad Almahairi and Vincent Wu and Wei-Lin Chiang and Tianhao Wu and Joseph E. Gonzalez and M Waleed Kadous and Ion Stoica},\n      year={2025},\n      eprint={2406.18665},\n      archivePrefix={arXiv},\n      primaryClass={cs.LG},\n      url={https://arxiv.org/abs/2406.18665}, \n}\n```"}
+	],
+	"edges":[]
+}

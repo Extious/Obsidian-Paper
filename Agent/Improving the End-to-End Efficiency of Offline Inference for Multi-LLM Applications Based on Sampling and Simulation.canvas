@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"2c9fe582ab74484d","type":"text","text":"## Title\nImproving the End-to-End Efficiency of Offline Inference for Multi-LLM Applications Based on Sampling and Simulation\n## Abstract\n\n## Summary\n\n## Links\nhttps://www.arxiv.org/abs/2503.16893\nhttps://yiyibooks.cn/arxiv/2503.16893v1/index.html\n## Cite\n```\n@misc{fang2025improvingendtoendefficiencyoffline,\n      title={Improving the End-to-End Efficiency of Offline Inference for Multi-LLM Applications Based on Sampling and Simulation}, \n      author={Jingzhi Fang and Yanyan Shen and Yue Wang and Lei Chen},\n      year={2025},\n      eprint={2503.16893},\n      archivePrefix={arXiv},\n      primaryClass={cs.DC},\n      url={https://arxiv.org/abs/2503.16893}, \n}\n```","x":-375,"y":-241,"width":795,"height":881}
+	],
+	"edges":[]
+}

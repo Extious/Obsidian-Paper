@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Agent/Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents.canvas",
+                "file": "Agent/Improving the End-to-End Efficiency of Offline Inference for Multi-LLM Applications Based on Sampling and Simulation.canvas",
                 "viewState": {
-                  "x": -6.36817029593243,
-                  "y": 324.25987167927485,
-                  "zoom": -0.3333333333333334
+                  "x": 408.44592705917955,
+                  "y": -136.66996860468768,
+                  "zoom": -0.3499532202675017
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents"
+              "title": "Improving the End-to-End Efficiency of Offline Inference for Multi-LLM Applications Based on Sampling and Simulation"
             }
           },
           {
@@ -31,14 +31,15 @@
               "type": "webviewer",
               "state": {
                 "url": "https://yiyibooks.cn/arxiv/2504.07347v1/index.html",
-                "title": "中英文对照阅读",
-                "mode": "blank"
+                "title": "Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "中英文对照阅读"
+              "title": "Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AcceLLM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +92,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,14 +214,17 @@
       "attachment-manager:切换附件文件夹的“显示/隐藏”": false
     }
   },
-  "active": "310a884eb0e852fb",
+  "active": "8b1abdb271d0175f",
   "lastOpenFiles": [
-    "Agent/Agent2Agent Protocol (A2A).canvas",
+    "Agent/Improving the End-to-End Efficiency of Offline Inference for Multi-LLM Applications Based on Sampling and Simulation.canvas",
+    "Agent/Model Context Protocol (MCP).canvas",
+    "Agent/RouteLLM.canvas",
     "Agent/Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents.canvas",
     "Agent/λScale.canvas",
-    "Agent/AcceLLM.canvas",
-    "Agent/Model Context Protocol (MCP).canvas",
     "Agent/GoEx.canvas",
+    "Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents.md",
+    "Agent/Agent2Agent Protocol (A2A).canvas",
+    "Agent/AcceLLM.canvas",
     "Agent/AIBrix.canvas",
     "Agent/Asserts/20250501165119652.png",
     "Agent/Asserts/20250501165115946.png",
