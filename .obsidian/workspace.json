@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8b9c38e80c58c008",
+        "id": "b69a38d942c89f40",
         "type": "tabs",
         "children": [
           {
-            "id": "acd1d531ebbb29fd",
+            "id": "f4440e4f9a3e1f84",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Agent/AIBrix/AIBrix.canvas",
-                "viewState": {
-                  "x": 177.01276595744685,
-                  "y": 558.0723404255319,
-                  "zoom": -1.5601945955722138
-                }
+                "file": "Agent/GoEx/NOTE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "AIBrix"
+              "icon": "lucide-file",
+              "title": "NOTE"
             }
           }
         ]
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agent/GoEX/GoEX.canvas",
+                "file": "Agent/GoEx/NOTE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "GoEX 的出链列表"
+              "title": "NOTE 的出链列表"
             }
           },
           {
@@ -145,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agent/GoEX/GoEX.canvas",
+                "file": "Agent/GoEx/NOTE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GoEX 的大纲"
+              "title": "NOTE 的大纲"
             }
           },
           {
@@ -160,7 +157,7 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -196,18 +193,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acd1d531ebbb29fd",
+  "active": "30092708bdc717d2",
   "lastOpenFiles": [
+    "Agent/λScale/λScale.canvas",
+    "Agent/AIBrix/AIBrix.canvas",
     "Agent/AcceLLM/AcceLLM.canvas",
     "Agent/GoEx/NOTE.md",
     "Agent/A2A/A2A.canvas",
     "Agent/A2A/Figure1.png",
     "Agent/A2A/Figure2.png",
-    "Agent/AIBrix/AIBrix.canvas",
     "Agent/GoEx/GoEx.canvas",
     "Agent/MCP/MCP.canvas",
     "Agent/MCP/Figure1.png",
-    "Agent/λScale/λScale.canvas",
     "Agent/λScale/Figure4.png",
     "Agent/MCP",
     "Agent/A2A",
