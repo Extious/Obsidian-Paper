@@ -4,21 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "b69a38d942c89f40",
+        "id": "abe0cd5848907dd0",
         "type": "tabs",
         "children": [
           {
-            "id": "f4440e4f9a3e1f84",
+            "id": "310a884eb0e852fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Agent/GoEx/NOTE.md",
-                "mode": "source",
-                "source": false
+                "file": "Agent/Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents.canvas",
+                "viewState": {
+                  "x": -6.36817029593243,
+                  "y": 324.25987167927485,
+                  "zoom": -0.3333333333333334
+                }
               },
-              "icon": "lucide-file",
-              "title": "NOTE"
+              "icon": "lucide-layout-dashboard",
+              "title": "Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents"
+            }
+          },
+          {
+            "id": "8b1abdb271d0175f",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://yiyibooks.cn/arxiv/2504.07347v1/index.html",
+                "title": "中英文对照阅读",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "中英文对照阅读"
             }
           }
         ]
@@ -53,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "AcceLLM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "22d70a09c40104a4",
@@ -113,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agent/GoEx/NOTE.md",
+                "file": "Agent/A2A/A2A.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "NOTE 的出链列表"
+              "title": "A2A 的出链列表"
             }
           },
           {
@@ -142,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agent/GoEx/NOTE.md",
+                "file": "Agent/A2A/A2A.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "NOTE 的大纲"
+              "title": "A2A 的大纲"
             }
           },
           {
@@ -190,42 +208,45 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "attachment-manager:切换附件文件夹的“显示/隐藏”": false
     }
   },
-  "active": "30092708bdc717d2",
+  "active": "310a884eb0e852fb",
   "lastOpenFiles": [
-    "Agent/λScale/λScale.canvas",
-    "Agent/AIBrix/AIBrix.canvas",
-    "Agent/AcceLLM/AcceLLM.canvas",
+    "Agent/Agent2Agent Protocol (A2A).canvas",
+    "Agent/Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents.canvas",
+    "Agent/λScale.canvas",
+    "Agent/AcceLLM.canvas",
+    "Agent/Model Context Protocol (MCP).canvas",
+    "Agent/GoEx.canvas",
+    "Agent/AIBrix.canvas",
+    "Agent/Asserts/20250501165119652.png",
+    "Agent/Asserts/20250501165115946.png",
+    "Agent/Asserts/20250501165105560.png",
+    "Agent/Asserts/20250501165054705.png",
+    "Agent/Asserts/20250501165042973.png",
     "Agent/GoEx/NOTE.md",
-    "Agent/A2A/A2A.canvas",
-    "Agent/A2A/Figure1.png",
-    "Agent/A2A/Figure2.png",
-    "Agent/GoEx/GoEx.canvas",
-    "Agent/MCP/MCP.canvas",
+    "Agent/GoEx/GoEx.pdf",
+    "Agent/Towards Scalable, Cost-Effective Large Language Model Inference Infrastructure/Figure1.png",
+    "Agent/Asserts/20250501164655816.png",
+    "Agent/Asserts/20250501164432898.png",
+    "Agent/Asserts/20250501164414279.png",
     "Agent/MCP/Figure1.png",
-    "Agent/λScale/Figure4.png",
+    "Agent/λScale/Asserts",
+    "Agent/Asserts",
+    "Agent/A2A/Asserts",
+    "Asserts",
+    "Agent/Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents",
     "Agent/MCP",
     "Agent/A2A",
     "Agent/λScale",
-    "Agent/AcceLLM/Figure2.png",
-    "Pasted image 20250414201226.png",
-    "Agent/AIBrix/Figure1.png",
     "Agent/AIBrix/未命名.md",
-    "Agent/AIBrix",
-    "Agent/AcceLLM",
-    "Agent/GoEx/Figure4.png",
-    "Agent/GoEx/Figure3.png",
+    "Agent/Towards Scalable, Cost-Effective Large Language Model Inference Infrastructure",
     "Excalidraw/Drawing 2025-04-13 15.15.22.excalidraw.md",
-    "Agent/GoEx/GoEx.pdf",
     "Agent/GoEX/GoEx.excalidraw.md",
-    "Excalidraw",
     "Agent/GoEX/原文翻译.md",
-    "Agent/GoEx/Figure2.png",
     "未命名.canvas",
-    "Agent",
-    "Agent/GoEx",
     "欢迎.md"
   ]
 }

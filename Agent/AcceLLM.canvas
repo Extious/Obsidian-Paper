@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2287e72a2f380efb","type":"group","x":-1060,"y":-1280,"width":879,"height":746,"label":"Figure2"},
+		{"id":"b078e3cc4347f8de","type":"text","text":"## Title\nAcceLLM: Accelerating LLM Inference using Redundancy for Load Balancing and Data Locality\n## Abstract\n大规模系统上的大语言模型 (LLM) 推理预计将主导未来的云基础设施。 在拥有众多AI加速器的云环境中高效地进行LLM推理具有挑战性，需要进行广泛的优化才能获得最佳性能。 当前系统将预填充和解码批量处理以提高吞吐量，但会遇到延迟问题；而其他系统则将这些阶段分解，导致资源利用不足。 我们提出了AcceLLM，这是一种受缓存数据管理启发的新方法，用于解决延迟和负载均衡问题。 它战略性地利用冗余数据，通过负载均衡和最佳硬件利用率来增强推理性能。 对 Nvidia H100 GPU 和华为 Ascend 910B2 的模拟评估表明，AcceLLM 在延迟和效率方面超越最先进的系统高达 30%，可有效处理各种工作负载。\n## Summary\n以显存资源换吞吐量\n## Links\nhttps://yiyibooks.cn/arxiv/2411.05555v1/index.html","x":-2120,"y":-929,"width":800,"height":560},
+		{"id":"5bc297b7f6e6cb8f","type":"file","file":"Agent/Asserts/20250501163959767.png","x":-1011,"y":-1240,"width":782,"height":440},
+		{"id":"b99f933dc2b28bf0","type":"text","text":"Figure 2: The KV cache of different queries is allocated on different instances. Query F (KV cache on Instance 3), is completed in time step t. In step t+1 (and many later), device 3 is idle. We use the free space on the devices to keep redundant copies of the KV cache. After query F is completed, there is enough KV cache on every device to keep good load balancing.","x":-931,"y":-744,"width":623,"height":190}
+	],
+	"edges":[]
+}

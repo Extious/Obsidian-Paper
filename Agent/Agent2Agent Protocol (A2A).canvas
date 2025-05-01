@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"49eb84c785c2e28e","type":"text","text":"## Title\nAnnouncing the Agent2Agent Protocol (A2A)\n\n\n\n\n## Links\nhttps://developers.googleblog.com/zh-hans/a2a-a-new-era-of-agent-interoperability/\n\n\n","x":-640,"y":-180,"width":600,"height":360},
+		{"id":"1c86a0972da664f7","type":"file","file":"Agent/Asserts/20250501163719375.png","x":200,"y":-420,"width":400,"height":170},
+		{"id":"1c76a96851bafba1","type":"file","file":"Agent/Asserts/20250501163755284.png","x":200,"y":-142,"width":400,"height":285},
+		{"id":"d8457d9b31c4c7b3","type":"file","file":"Agent/Asserts/20250501163910670.png","x":200,"y":240,"width":400,"height":227}
+	],
+	"edges":[]
+}
