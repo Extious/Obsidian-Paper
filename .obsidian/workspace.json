@@ -4,42 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "abe0cd5848907dd0",
+        "id": "12c7f4e1dc86534a",
         "type": "tabs",
         "children": [
           {
-            "id": "310a884eb0e852fb",
+            "id": "2d4708ece02360ec",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Agent/Improving the End-to-End Efficiency of Offline Inference for Multi-LLM Applications Based on Sampling and Simulation.canvas",
+                "file": "Agent/GoEx.canvas",
                 "viewState": {
-                  "x": 408.44592705917955,
-                  "y": -136.66996860468768,
-                  "zoom": -0.3499532202675017
+                  "x": -1040.1235550340882,
+                  "y": -1494.718075236597,
+                  "zoom": 0.21563153660300172
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Improving the End-to-End Efficiency of Offline Inference for Multi-LLM Applications Based on Sampling and Simulation"
-            }
-          },
-          {
-            "id": "8b1abdb271d0175f",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://yiyibooks.cn/arxiv/2504.07347v1/index.html",
-                "title": "Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents"
+              "title": "GoEx"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,13 +77,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "22d70a09c40104a4",
@@ -196,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -214,44 +197,48 @@
       "attachment-manager:切换附件文件夹的“显示/隐藏”": false
     }
   },
-  "active": "8b1abdb271d0175f",
+  "active": "2d4708ece02360ec",
   "lastOpenFiles": [
-    "Agent/Improving the End-to-End Efficiency of Offline Inference for Multi-LLM Applications Based on Sampling and Simulation.canvas",
-    "Agent/Model Context Protocol (MCP).canvas",
-    "Agent/RouteLLM.canvas",
-    "Agent/Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents.canvas",
-    "Agent/λScale.canvas",
-    "Agent/GoEx.canvas",
-    "Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents.md",
-    "Agent/Agent2Agent Protocol (A2A).canvas",
-    "Agent/AcceLLM.canvas",
-    "Agent/AIBrix.canvas",
+    "Agent/Why Do Multi-Agent LLM Systems Fail.canvas",
+    "Agent/Which Agent Causes Task Failures and When. On Automated Failure Attribution of LLM Multi-Agent Systems.canvas",
     "Agent/Asserts/20250501165119652.png",
+    "Agent/GoEx.canvas",
+    "Agent/Multi-Agent Risks from Advanced AI.canvas",
+    "Agent/Agent2Agent Protocol (A2A).canvas",
+    "Agent/λScale.canvas",
+    "SC25/Pittacus.canvas",
+    "2025-05-23.md",
+    "SC25/Hermes.canvas",
+    "Agent/Autelli.canvas",
+    "SC25/Asserts/pap313s2.pdf",
+    "SC25/Hermes.md",
+    "SC25/Asserts/20250507203021333.png",
+    "Agent/Sarathi-Serve.canvas",
+    "SC25/Asserts/e49dddf12fd34529b06d3580e659e489.pdf_2_2400.jpg~tplv-a9rns2rl98-resize-crop_186_244_1672_1114_1486_870.jpeg",
+    "SC25/Asserts/20250507202822998.png",
+    "SC25/Asserts/pap286s2.pdf",
+    "SC25/Asserts",
+    "SC25",
+    "Agent/Asserts/20250505150540475.png",
+    "Agent/Asserts/20250505150536429.png",
+    "Agent/Asserts/20250502213451451.png",
+    "Excalidraw/Drawing 2025-05-02 13.08.02.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-02 13.04.48.excalidraw.md",
+    "Excalidraw",
+    "Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents.md",
     "Agent/Asserts/20250501165115946.png",
     "Agent/Asserts/20250501165105560.png",
     "Agent/Asserts/20250501165054705.png",
-    "Agent/Asserts/20250501165042973.png",
     "Agent/GoEx/NOTE.md",
     "Agent/GoEx/GoEx.pdf",
-    "Agent/Towards Scalable, Cost-Effective Large Language Model Inference Infrastructure/Figure1.png",
-    "Agent/Asserts/20250501164655816.png",
-    "Agent/Asserts/20250501164432898.png",
-    "Agent/Asserts/20250501164414279.png",
-    "Agent/MCP/Figure1.png",
     "Agent/λScale/Asserts",
     "Agent/Asserts",
     "Agent/A2A/Asserts",
     "Asserts",
-    "Agent/Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents",
-    "Agent/MCP",
-    "Agent/A2A",
-    "Agent/λScale",
     "Agent/AIBrix/未命名.md",
-    "Agent/Towards Scalable, Cost-Effective Large Language Model Inference Infrastructure",
     "Excalidraw/Drawing 2025-04-13 15.15.22.excalidraw.md",
     "Agent/GoEX/GoEx.excalidraw.md",
     "Agent/GoEX/原文翻译.md",
-    "未命名.canvas",
     "欢迎.md"
   ]
 }

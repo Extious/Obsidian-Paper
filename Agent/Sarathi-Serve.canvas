@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"cf2abd123f903a24","type":"text","text":"continuous batching：\nSarathi-Serve prioritizes decoding requests when loading a batch while allowing prefill tokens to be appended in a first-come, first-served manner up to the token budget b (b=256 or b=512 is often selected).","x":-504,"y":-204,"width":444,"height":184}
+	],
+	"edges":[]
+}
